@@ -4,7 +4,6 @@
 # Run sound classifier in realtime.
 #
 from common import *
-
 import pyaudio
 import sys
 import time

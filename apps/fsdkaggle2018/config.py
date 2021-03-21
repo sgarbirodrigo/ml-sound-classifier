@@ -1,8 +1,6 @@
 # Freesound Dataset Kaggle 2018
 # Application configurations
-
 from easydict import EasyDict
-
 conf = EasyDict()
 
 # Basic configurations
